@@ -4,13 +4,13 @@ document.getElementById('spinButton').addEventListener('click', function() {
 
     switch(result) {
         case 1:
-            displayText = 'Builder - Time to construct your escape!';
+            displayText = 'Builder';
             break;
         case 2:
-            displayText = 'Representative - Be the face of your team\'s escape!';
+            displayText = 'Representative';
             break;
         case 3:
-            displayText = 'Distorter - Twist and turn your way out!';
+            displayText = 'Distorter';
             break;
     }
 

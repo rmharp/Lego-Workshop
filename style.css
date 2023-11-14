@@ -38,3 +38,27 @@ header h1 {
     font-size: 24px;
     color: #333;
 }
+
+.slot {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: 2em;
+    margin: 5px;
+    background-color: #fff;
+}
+
+#slotMachine {
+    margin-bottom: 20px;
+}
+
+.spin {
+    animation: spin 2s ease-in-out;
+}
+
+@keyframes spin {
+    0% { transform: rotateX(0deg); }
+    100% { transform: rotateX(360deg); }
+}

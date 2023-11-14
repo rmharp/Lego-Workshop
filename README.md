@@ -1,4 +1,4 @@
-# Chapel Thrill Escapes Lego Workshop - Slot Machine
+# Chapel Thrill Escapes Lego Workshop
 
 ## Overview
 This project is a simple web-based slot machine game designed for Chapel Thrill Escapes Lego Workshop. It features a static slot machine with UNC-Chapel Hill themed colors and the Chapel Thrill Escapes logo. Users can interact with the game by pressing a button to generate random outcomes.
